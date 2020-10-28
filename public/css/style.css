@@ -1,0 +1,21 @@
+* {
+	box-sizing: border-box;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.bg-dark>h4 {
+    color: #FFF;
+    padding: 10px 0;
+}
+
+ .search-icon {
+    font-size: 20px;
+    color: black;
+}
+
+/* .icon-search>a:hover {
+    color: #3d3d3d;
+} */
