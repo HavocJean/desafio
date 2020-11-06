@@ -12,29 +12,29 @@
                     <div class="col-md-12">Filtros:</div>
                     <div class="col-md-12">
                         <span>Peso:</span>
-                        <a href="/desafio/public/?peso=acima">A cima do peso</a> |
-                        <a href="/desafio/public/?peso=media">Média</a> |
-                        <a href="/desafio/public/?peso=abaixo">A baixo do peso</a>
+                        <a href="/?peso=acima">A cima do peso</a> |
+                        <a href="/?peso=media">Média</a> |
+                        <a href="/?peso=abaixo">A baixo do peso</a>
                     </div>
                     <div class="col-md-12">
                         Altura:
-                        <a href="/desafio/public/?altura=altos">Altos</a> |
-                        <a href="/desafio/public/?altura=medianos">Medianos</a> |
-                        <a href="/desafio/public/?altura=baixos">Baixos</a>
+                        <a href="/?altura=altos">Altos</a> |
+                        <a href="/?altura=medianos">Medianos</a> |
+                        <a href="/?altura=baixos">Baixos</a>
                     </div>
                     <div class="col-md-12">
                         Atleta:
-                        <a href="/desafio/public/?atleta=sim">Sim</a> |
-                        <a href="/desafio/public/?atleta=nao">Não</a>
+                        <a href="/?atleta=sim">Sim</a> |
+                        <a href="/?atleta=nao">Não</a>
                     </div>
                     <div class="col-md-12">
                         Intolerante a Lactose:
-                        <a href="/desafio/public/?lactose=sim">Sim</a> |
-                        <a href="/desafio/public/?lactose=nao">Não</a>
+                        <a href="/?lactose=sim">Sim</a> |
+                        <a href="/?lactose=nao">Não</a>
                     </div>
                 </div>
                 <div class="col-md-4 search">
-                    <form action="/desafio/public/" method="GET" role="search">
+                    <form action="/" method="GET" role="search">
                         <div class="input-group">
                             <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon1"><i class="fas fa-search"></i></span>
